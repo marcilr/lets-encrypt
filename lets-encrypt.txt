@@ -6,6 +6,15 @@ by Raymond E. Marcil <marcilr@gmail.com>
 Let's Encrypt - Free SSL/TLS Certificates
 
 
+Let's Encrypt is a free, automated, and open certificate
+authority brought to you by the non-profit Internet Security
+Research Group (ISRG).
+--letsencrypt.org/
+
+
+Looks like an easy package install for Debian.
+
+
 Links
 =====
 Let's Encrypt - Free SSL/TLS Certificates
